@@ -10,7 +10,7 @@ Install the theme directly from [Firefox Addons](https://addons.mozilla.org/en-U
 
 ## Install Manually 
 
-* Download [.xpi file](#) or [.zip file](#)
+* Download [.xpi file](https://github.com/birobirobiro/firefox-omni/raw/master/omni.xpi) or [.zip file](https://github.com/birobirobiro/firefox-omni/raw/master/omni.zip)
 * In adressbar paste this `about:addons`
 * Go to Themes -> Settings -> Install Add-on from file
 * Select **.xpi** or **.zip** file

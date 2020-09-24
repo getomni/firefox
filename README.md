@@ -4,9 +4,9 @@
 
 ![Screenshot](./screenshot.png)
 
-## Install using Firefox Addons
+## Install using Firefox Add-ons
 
-Install the theme directly from [Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/omni-theme/).
+Install the theme directly from [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/omni-theme/).
 
 ## Install Manually 
 

@@ -1,29 +1,43 @@
-# Omni for [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+<h1 align="center">
+  <br>
+  <img src="https://storage.googleapis.com/golden-wind/github/omni/omni.png" alt="Omni Logo" width="100">
+  <br>
+  Omni for <a href="https://www.mozilla.org/firefox/">Firefox</a>
+  <br>
+</h1>
 
-> A dark theme for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/omni-theme/)
+<p align="center">
+  <strong>Dark theme for <a href="https://www.mozilla.org/firefox/">Firefox</a></strong>
+</p>
 
-![Screenshot](./screenshot.png)
+<p align="center">
+  <img src="https://img.shields.io/badge/PRs-welcome-%235FCC6F.svg" alt="PRs welcome!" />
 
-## Install using Firefox Add-ons
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%235FCC6F">
+</p>
 
-Install the theme directly from [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/omni-theme/).
+<p align="center">
+  <a href="#install">Install</a> •
+  <a href="#team">Team</a> •
+  <a href="#license">License</a>
+</p>
 
-## Install Manually 
+<p align="center">
+  <img alt="Omni screnshoot for Firefox" src="./screenshot.png">
+</p>
 
-* Download [.xpi file](https://github.com/getomni/firefox-omni/raw/master/omni.xpi) or [.zip file](https://github.com/getomni/firefox-omni/raw/master/omni.zip)
-* In adressbar paste this `about:addons`
-* Go to Themes -> Settings -> Install Add-on from file
-* Select **.xpi** or **.zip** file
-* Apply **Omni** Theme
+## Install
+
+All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 ## Team
 
-This theme is maintained by the following person(s):
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getomni/firefox/graphs/contributors).
 
-| [![João Inácio](https://avatars2.githubusercontent.com/u/22185823?s=70)](https://github.com/birobirobiro) |
-| --- |
-| [João Inácio](https://github.com/birobirobiro) |
+| [![João Inácio](https://github.com/birobirobiro.png?size=100)](https://github.com/birobirobiro) |
+| ----------------------------------------------------------------------------------------------- |
+| [João Inácio](https://github.com/birobirobiro)                                                  |
 
 ## License
 
-[MIT License](./LICENSE)
+[MIT License](./LICENSE.md)

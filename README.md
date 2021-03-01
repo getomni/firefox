@@ -2,12 +2,12 @@
   <br>
   <img src="https://storage.googleapis.com/golden-wind/github/omni/omni.png" alt="Omni Logo" width="100">
   <br>
-  Omni for <a href="https://www.mozilla.org/firefox/">Firefox</a>
+  Omni for <a href="https://www.mozilla.org/firefox/">Firefox</a> and <a href="https://www.thunderbird.net/pt-BR/">Thunderbird</a>
   <br>
 </h1>
 
 <p align="center">
-  <strong>Dark theme for <a href="https://www.mozilla.org/firefox/">Firefox</a></strong>
+  <strong>Dark theme for <a href="https://www.mozilla.org/firefox/">Firefox</a> and <a href="https://www.thunderbird.net/pt-BR/">Thunderbird</a></strong>
 </p>
 
 <p align="center">
@@ -24,6 +24,8 @@
 
 <p align="center">
   <img alt="Omni screnshoot for Firefox" src="./screenshot.png">
+  <br/><br/>
+  <img alt="Omni screnshoot for Thunderbird" src="./screenshot2.png">
 </p>
 
 ## Install

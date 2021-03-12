@@ -24,8 +24,6 @@
 
 <p align="center">
   <img alt="Omni screnshoot for Firefox" src="./screenshot.png">
-  <br/><br/>
-  <img alt="Omni screnshoot for Thunderbird" src="./screenshot2.png">
 </p>
 
 ## Install
@@ -36,9 +34,9 @@ All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getomni/firefox/graphs/contributors).
 
-| [![João Inácio](https://github.com/birobirobiro.png?size=100)](https://github.com/birobirobiro) |
-| ----------------------------------------------------------------------------------------------- |
-| [João Inácio](https://github.com/birobirobiro)                                                  |
+| [![João Inácio](https://github.com/birobirobiro.png?size=100)](https://github.com/birobirobiro) | [![Eduardo Oliveira](https://github.com/EduardoJM.png?size=100)](https://github.com/EduardoJM) |
+| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [João Inácio](https://github.com/birobirobiro)                                                  | [Eduardo Oliveira](https://github.com/EduardoJM) |
 
 ## License
 
